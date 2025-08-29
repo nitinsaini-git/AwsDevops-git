@@ -1,3 +1,3 @@
 # AwsDevops-git
 This is my first git-Repositry.
-Athor Nitin Sini
+Athor Nitin Saini
